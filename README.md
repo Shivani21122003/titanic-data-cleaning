@@ -49,6 +49,8 @@ The dataset contains passenger information such as passenger class, survival sta
 **Conclusion**
 
 This project demonstrates basic data-cleaning skills, including missing-value handling, duplicate checks, data-type inspection, text standardization, and data validation using Python and Pandas.
+
+
 **Exploratory Data Analysis**
 Exploratory Data Analysis of the Titanic Dataset
 
