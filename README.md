@@ -1,4 +1,4 @@
-***Titanic Dataset — Data Cleaning and Preparation***
+**Titanic Dataset — Data Cleaning and Preparation**
 
 **Project Overview**
 
@@ -49,3 +49,39 @@ The dataset contains passenger information such as passenger class, survival sta
 **Conclusion**
 
 This project demonstrates basic data-cleaning skills, including missing-value handling, duplicate checks, data-type inspection, text standardization, and data validation using Python and Pandas.
+**Exploratory Data Analysis**
+Exploratory Data Analysis of the Titanic Dataset
+
+**Project Overview**
+
+This project performs Exploratory Data Analysis (EDA) on the cleaned Titanic dataset prepared during Task 1 for SWYNEX Technologies.
+
+**Objectives**
+
+Analyze passenger survival patterns.
+Calculate descriptive statistics.
+Explore relationships between survival, gender, passenger class, age and fare.
+Create visualizations to communicate findings.
+Identify at least five useful insights.
+**Tools Used**
+
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
+**Key Findings**
+
+Overall survival rate: 38.24%.
+Female survival rate: 72.75%, compared with 19.19% for males.
+First-class survival rate: 62.04%; second-class: 42.96%; third-class: 25.53%.
+Average age of survivors: 28.79 years; non-survivors: 29.95 years.
+Average fare of survivors: 49.32; non-survivors: 23.34.
+Conclusion
+
+The analysis revealed patterns in survival outcomes across gender and passenger class, along with differences in average age and fare. These results describe associations in the dataset and do not establish causation.
+
+**Note**
+
+Missing age and fare values were imputed during Task 1. These preprocessing choices should be considered when interpreting the results.
