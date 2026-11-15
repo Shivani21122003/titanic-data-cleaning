@@ -65,6 +65,7 @@ Calculate descriptive statistics.
 Explore relationships between survival, gender, passenger class, age and fare.
 Create visualizations to communicate findings.
 Identify at least five useful insights.
+
 **Tools Used**
 
 Python
@@ -73,6 +74,7 @@ NumPy
 Matplotlib
 Seaborn
 Jupyter Notebook
+
 **Key Findings**
 
 Overall survival rate: 38.24%.
@@ -80,9 +82,11 @@ Female survival rate: 72.75%, compared with 19.19% for males.
 First-class survival rate: 62.04%; second-class: 42.96%; third-class: 25.53%.
 Average age of survivors: 28.79 years; non-survivors: 29.95 years.
 Average fare of survivors: 49.32; non-survivors: 23.34.
-Conclusion
+
+**Conclusion**
 
 The analysis revealed patterns in survival outcomes across gender and passenger class, along with differences in average age and fare. These results describe associations in the dataset and do not establish causation.
+
 
 **Note**
 
